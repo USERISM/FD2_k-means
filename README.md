@@ -1,5 +1,5 @@
-##Clustering Analysis of Mall_Customers Dataset
-#Overview
+Clustering Analysis of Mall_Customers Dataset
+Overview
 This project applies clustering techniques to the Mall_Customers dataset using:
 
 K-Means Clustering: Tests various k values to find the best number of clusters.
